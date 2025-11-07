@@ -48,4 +48,8 @@ Email-Validator-Cognifyz/
 
 ---
 
+## 📤 OUTPUT
 
+<img width="1304" height="673" alt="Screenshot 2025-11-07 184720" src="https://github.com/user-attachments/assets/b1382ab8-b440-4d20-b615-31bbc2a7a1b1" />
+
+---
